@@ -16,7 +16,7 @@ Um aplicativo Android desenvolvido em **Kotlin** utilizando **Jetpack Compose** 
 
 | Tela de Login | Tela de Cadastro | Tela Inicial |
 |----------------|------------------|---------------|
-| ![Login](./screenshots/Print1.PNG) | ![Cadastro](./screenshots/Print2.PNG) | ![Home](./screenshots/Print3.PNG) |
+| ![Login](./Screenshots/Print1.PNG) | ![Cadastro](./Screenshots/Print2.PNG) | ![Home](./Screenshots/Print3.PNG) |
 
 ---
 

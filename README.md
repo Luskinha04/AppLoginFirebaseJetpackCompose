@@ -51,7 +51,7 @@ app/
 As imagens estão salvas na pasta:
 
 ```
-/screenshots
+/Screenshots
 ```
 
 ---

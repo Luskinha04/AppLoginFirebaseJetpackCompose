@@ -79,7 +79,12 @@ As imagens estão salvas na pasta:
 ## ✍️ Autor
 
 **Lucas Lemos (Luskinha04)**  
-Aluno de Análise e Desenvolvimento de Sistemas – IFTM  
 Projeto feito com 💜 para fins acadêmicos
 
+---
+
+> **IFTM - Instituto Federal do Triângulo Mineiro**  
+> **Curso:** Análise e Desenvolvimento de Sistemas  
+> **Disciplina:** Inteligência Computacional
+> **Período:** 6º Semestre
 

@@ -32,7 +32,7 @@ Um aplicativo Android desenvolvido em **Kotlin** utilizando **Jetpack Compose** 
 ## 🚀 Como executar
 1. Clone este repositório:
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Luskinha04/AppLoginFirebaseJetpackCompose
 ```
 
 2. Abra o projeto no **Android Studio**.
